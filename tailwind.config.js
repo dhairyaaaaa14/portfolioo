@@ -14,4 +14,5 @@ module.exports = {
     },
   },
   plugins: [],
+  safelist: ["animate-[tada]"],
 };
